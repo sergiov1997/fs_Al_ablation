@@ -1,0 +1,1 @@
+To perform simulations, run file "trial_ablation_Al_TTM_cesvima_Munich_ours_fs.m". There, the parameters of the laser can also be changed. For calculations requiring Polylogarithm functions, "Symbolic Math Toolbox" from Matlab needs to be installed. 
